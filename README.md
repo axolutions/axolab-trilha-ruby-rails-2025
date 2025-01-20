@@ -129,6 +129,8 @@ Para publicar sua solução, siga os passos abaixo:
 
    ```bash
    git checkout -b murichristopher/lasagna
+
+    git pull origin main --no-rebase # para atualizar
    ```
 
 5. **Leia as Instruções do Desafio**
